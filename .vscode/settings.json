@@ -1,0 +1,17 @@
+{
+    "files.exclude": {
+        "**/*.js": true,
+        "**/*.css": true,
+        "**/*.html": true
+    },
+    "files.associations": {
+        "*.md": "markdown"
+    },
+    "editor.wordWrap": "on",
+    "editor.formatOnSave": true,
+    "markdown.previewBreaks": "on",
+    "markdownlint.config": {
+        // Ваши настройки MarkdownLint, если используете этот плагин
+    },
+    "editor.inlineSuggest.showToolbar": "always"
+}
